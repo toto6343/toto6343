@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toto6343&label=Profile%20views&color=0e75b6&style=flat" alt="toto6343" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
