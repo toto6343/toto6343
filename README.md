@@ -1,60 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        h1 {
-            color: #4CAF50;
-            margin-top: 20px;
-        }
-        h3 {
-            color: #333;
-        }
-        .profile-views {
-            margin: 10px 0;
-        }
-        .languages-tools {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 20px 0;
-        }
-        .languages-tools img {
-            width: 50px;
-            height: 50px;
-            transition: transform 0.3s;
-        }
-        .languages-tools img:hover {
-            transform: scale(1.2);
-        }
-        .stats-container {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 20px;
-            margin: 30px 0;
-        }
-        .stats-container img {
-            border: 2px solid #ddd;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        footer {
-            margin-top: 30px;
-            color: #666;
-            font-size: 0.9em;
-        }
-    </style>
-</head>
-<body>
 
     <h1>Hi 👋, I'm Woohyuk KIM</h1>
     <h3>I'm a Developer</h3>
@@ -139,6 +82,3 @@
     <footer>
         Thank you for visiting my profile! 🌟
     </footer>
-
-</body>
-</html>
