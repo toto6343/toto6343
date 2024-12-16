@@ -78,7 +78,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=toto6343&show_icons=true&locale=en" alt="GitHub Stats" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=toto6343&" alt="GitHub Streak" />
     </div>
-
-    <footer>
-        Thank you for visiting my profile! 🌟
-    </footer>
