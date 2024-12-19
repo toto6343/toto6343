@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toto6343&theme=vue&show_icons=true&locale=en&layout=pie" alt="Top Languages" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=toto6343&theme=vue&show_icons=true&locale=en&theme=tyokonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=toto6343&theme=vue&show_icons=true&locale=en" alt="GitHub Stats" />
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=toto6343&theme=vue&show_icons" alt="GitHub Streak Stats" />
