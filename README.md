@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=cylinder&height=150&color=auto&text=My%20Playground&reversal=false&desc=Meaningful%20Projects&fontAlignY=45&descAlignY=70&animation=scaleIn&strokeWidth=1&stroke=none&fontSize=40&descSize=20
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=auto&text=My%20Playground&reversal=false&desc=Meaningful%20Projects&fontAlignY=45&descAlignY=70&animation=scaleIn&strokeWidth=1&stroke=none&fontSize=40&descSize=20" />
