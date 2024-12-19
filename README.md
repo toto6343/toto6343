@@ -15,4 +15,4 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Projects%20By%20WH&section=footer&desc=Woohyuk&descAlignY=70&descAlign=50&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Projects%20By%20WH&section=footer&desc=Woohyuk%20and%20Pals&descAlignY=70&descAlign=50&descSize=30" />
