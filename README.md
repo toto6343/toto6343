@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WH's%20Loft&section=header&desc=Priceless%20Projects&descAlignY=70&descAlign=50&descSize=30" />
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toto6343&label=Profile%20views&color=0e75b6&style=flat" alt="toto6343" /> </p>
+<p align="left">Hello!<img src="https://komarev.com/ghpvc/?username=toto6343&label=Profile%20views&color=0e75b6&style=flat" alt="toto6343" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toto6343" alt="toto6343" /></a> </p>
 
